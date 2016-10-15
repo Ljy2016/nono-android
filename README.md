@@ -1,5 +1,5 @@
-# nono-android
-The Android application source code of NONo,fully driven by event stream.
+# 1. What's NONo-Android?
+The Android application source code of NONo---Next Generation of personal cloud Note platform.
 
 You can download the apk to preview.http://www.coolapk.com/apk/com.seki.noteasklite
   <br />
@@ -10,6 +10,9 @@ You can download the apk to preview.http://www.coolapk.com/apk/com.seki.noteaskl
 <img src="http://image.coolapk.com/apk_image/2016/0830/4f8afe08d314d1e0d828ddbeb232803e-for-23837-o_1ardspcbn1b8mtsjj5f54hqe1o-uid-557725.png" width="156">
 
   <br />
+# 2. How To make the NONo-Android?
+The whole application is fully driven by event stream untill now.
+
 All code including a rich-text-editor module written by my friend can be used by anyone for free.
 
 Although the architecture of the project may seem a bit outdated at the present,I still hope you can make some pull requests and fork it.
@@ -18,5 +21,7 @@ Although the architecture of the project may seem a bit outdated at the present,
 
 <p align="center"> NONo-Android Architecture</p>
 
-If you are really insterested in this project,and want to be a contributor of it,just take part in it!
+# 3. Dare to be the next contributor!
+If you are really insterested in this project,and want to be a contributor of it,just feel free to [contact me](mailto:tianyuan168326@outlook.com) and take part in it!
+
 In the case that you are a chinese developer,I also make a [QQ group](http://shang.qq.com/wpa/qunwpa?idkey=2fdcb3d97201e8c9eee4baa9ef322ed88ddd508f17130cc6294ed4d80a27e09e)  for all conveninence.
