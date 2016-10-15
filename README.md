@@ -14,7 +14,7 @@ All code including a rich-text-editor module written by my friend can be used by
 
 Although the architecture of the project may seem a bit outdated at the present,I still hope you can make some pull requests and fork it.
 
-<img src="https://github.com/tianyuan168326/nono-android/blob/master/%E5%B1%8F%E5%B9%95%E5%BF%AB%E7%85%A7%202016-10-15%20%E4%B8%8B%E5%8D%889.10.30.png?raw=true" width="640">
+<img align="center" src="https://github.com/tianyuan168326/nono-android/blob/master/%E5%B1%8F%E5%B9%95%E5%BF%AB%E7%85%A7%202016-10-15%20%E4%B8%8B%E5%8D%889.10.30.png?raw=true" width="640">
 
 <p align="center"> NONo-Android Architecture</p>
 
