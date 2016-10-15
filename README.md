@@ -2,7 +2,8 @@
 The Android application of NONo---The Next Generation of personal cloud Note platform.
 
 You can download the apk from [here](http://www.coolapk.com/apk/com.seki.noteasklite) to preview.
-  <br />
+
+
 <img src="http://image.coolapk.com/apk_image/2016/0830/8f3cae0127afab713dcf4048ee72f1f8-for-23837-o_1ardsovtq94mmt86r01882cjr10-uid-557725.png" width="156">
 <img src="http://image.coolapk.com/apk_image/2016/0830/c39e1c043c6f9674e7f8b97059b898bd-for-23837-o_1ardsp36f1uk2cra16op1gdu1lur16-uid-557725.png" width="156">
 <img src="http://image.coolapk.com/apk_image/2016/0830/31bad672a69ea0db2db615e5ca3e320f-for-23837-o_1ardsp5mq186j10611h741kjietr1c-uid-557725.png" width="156">
