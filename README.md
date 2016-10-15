@@ -17,3 +17,5 @@ Although the architecture of the project may seem a bit outdated at the present,
 ![NONo-Android Architecture](https://github.com/tianyuan168326/nono-android/blob/master/%E5%B1%8F%E5%B9%95%E5%BF%AB%E7%85%A7%202016-10-15%20%E4%B8%8B%E5%8D%889.10.30.png?raw=true "NONo-Android Architecture")
 <p align="center"> NONo-Android Architecture</p>
 
+If you are really insterested in this project,and want to be a contributor of it,just take part in it!
+In the case that you are a chinese developer,I also make a [QQ group](http://shang.qq.com/wpa/qunwpa?idkey=2fdcb3d97201e8c9eee4baa9ef322ed88ddd508f17130cc6294ed4d80a27e09e)  for all conveninence.
