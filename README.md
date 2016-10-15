@@ -1,5 +1,5 @@
 # 1. What's NONo-Android?
-The Android application source code of NONo---Next Generation of personal cloud Note platform.
+The Android application of NONo---The Next Generation of personal cloud Note platform.
 
 You can download the apk to preview.http://www.coolapk.com/apk/com.seki.noteasklite
   <br />
