@@ -14,7 +14,7 @@ You can download the apk from [here](http://www.coolapk.com/apk/com.seki.noteask
 # 2. How To make the NONo-Android?
 The whole application is fully driven by event stream untill now.
 
-All code including a rich-text-editor module written by my friend can be used by anyone for free.
+All codes including a rich-text-editor module which is written by my good friend are free for anyone to use！Just let me know!
 
 Although the architecture of the project may seem a bit outdated at the present,I still hope you can make some pull requests and fork it.
 
