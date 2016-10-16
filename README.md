@@ -70,6 +70,7 @@ Although the architecture of the project may seem a bit outdated at the present,
 
 # 3. You can Get!
 NONo-Android includes All common mobile development needs and is growing quickly now!
+
 - **Rich Text Editor** fully based on Android TextView!It means the application don't need to be bound with chronium kernel-**size about 16MB**.
 - **List component** with loading image and complex interactive effect,powered by **RecycleView and Frecso**.
 - **Http request**,powered by **RxAndroid and OKHttp**.
@@ -77,6 +78,7 @@ NONo-Android includes All common mobile development needs and is growing quickly
 - **Best Practice of large scale Application**,get out of messy Application and MVC model,delegate all operations to event stream,powered by **EventBus**.
 - **Fully Material Design experience**.It can make a pragrammer to be designer,powered by **Google MD**.
 - You can question me **freely** for all your doubts during developing NONo-Android.
+
 # 4. Dare to be the next contributor!
 If you are really insterested in this project,and want to be a contributor of it,just feel free to [contact me](mailto:tianyuan168326@outlook.com) and take part in it!
 
