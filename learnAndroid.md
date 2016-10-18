@@ -43,5 +43,6 @@ IDE:[免翻墙Android Studio下载](http://rj.baidu.com/soft/detail/27390.html?a
 
 ### 6. 上面的都太初级了？
 
-那快点[一起补充文档吧，帮助更多的人！](mailto:tianyuan168326@outlook.com)
+- 想参与一个真实的项目？[来这儿](https://github.com/tianyuan168326/nono-android/)
+- 那快点[一起补充文档吧，帮助更多的人！](mailto:tianyuan168326@outlook.com)
 
