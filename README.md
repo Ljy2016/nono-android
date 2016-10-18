@@ -39,7 +39,11 @@ NONo-Android 基本囊括了所有移动端常见的开发需求，而且还在�
 如果你真的对NONo-Android感兴趣,并且想为其贡献代码,请邮件 [联系我](mailto:tianyuan168326@outlook.com) ！
 
 如果你是个中国开发者,请加入 [QQ 群](http://shang.qq.com/wpa/qunwpa?idkey=2fdcb3d97201e8c9eee4baa9ef322ed88ddd508f17130cc6294ed4d80a27e09e) 。
+# 5.NONo需要改进的地方
+NONo作为我的个人项目，开发周期拉的比较长，所以里面有很多很原始的代码或者设计范式需要被改进。目前亟待解决的两点是：
 
+- 网络请求范式不统一，有部分代码**用AsyncTask＋HttpUrlConnection进行网络请求**（主要集中于AsyncTask这个文件夹）、**用Volley进行网络请求和图片请求**。
+- **登陆、注册、找回密码（这一块甚至还没做）流程不够规范**，用Native方式了来做这种超低频操作是得不偿失的方案！这一块应该全部用WebView来做。
 
 
 <h2 id="1"></h2>
